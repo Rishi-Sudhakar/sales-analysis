@@ -105,6 +105,11 @@ The script performs the following analyses:
 4. **Sales by Deal Size:**
 
    Analyzes sales by deal size to determine the impact of order size on revenue.
+   
+<img width="1239" alt="Screenshot 2024-06-23 at 12 01 02 AM" src="https://github.com/Rishi-Sudhakar/sales-analysis/assets/79398572/d059b9ac-bb42-4472-86d1-e7b5a75ff407">
+<img width="1534" alt="Screenshot 2024-06-23 at 12 01 39 AM" src="https://github.com/Rishi-Sudhakar/sales-analysis/assets/79398572/1c9f17cc-4486-4233-b02e-ebac21f2864e">
+
+   
 
 ## Benefits
 
