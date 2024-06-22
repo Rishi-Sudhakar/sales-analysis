@@ -16,8 +16,9 @@ summary(sales_data)
 colSums(is.na(sales_data))
 
 # Convert ORDERDATE to Date type
+# Use mdy() if dates are in mm/dd/yyyy format
 sales_data <- sales_data %>%
-  mutate(ORDERDATE = dmy(ORDERDATE))
+  mutate(ORDERDATE = mdy(ORDERDATE))
 
 # Aggregate Sales by Year and Quarter
 sales_by_year_qtr <- sales_data %>%
